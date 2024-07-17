@@ -7,10 +7,22 @@ aside: true
 ---
 
 ### Education
-Coming Soon
+![Bloomsburg University](/assets/images/bu-logo.png) 
+
+**Bachelors of Science Degree**
+
+**Computer and Information Systems**
+
+**Graduated May 2003**
 
 ### Career Overview
-Coming Soon
+Since graduating from Bloomsburg University of Pennsylvania in May 2003, I have been working as an IT professional with a focus on software engineering.
+
+Early in my career, I served as a jack-of-all trades in a non-profit organization. I was responsible for the networking and maintenance of the computers in the office as well as maintaining and content on their website.
+
+As my career has progressed, I have gained a focus on software engineering. Since 2014, I have been focused on RESTful backend services in Java and NodeJS related to insurance data. 
+
+In 2022, I joined a project that is running multiple app services in Azure cloud. Since being promoted to my current role as Lead Software Engineer I have been focused on leading the engineering and maintenance of that application in addition to gaining infrastructure and security knowledge related to Azure cloud hosted applications.
 
 ### Job History
 Coming Soon
