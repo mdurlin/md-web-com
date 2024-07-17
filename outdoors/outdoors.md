@@ -1,1 +1,0 @@
-Outdoor Adventures - Coming Soon

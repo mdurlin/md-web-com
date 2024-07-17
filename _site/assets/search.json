@@ -1,0 +1,47 @@
+
+
+[
+  
+  
+    
+    
+  
+  
+  
+  {
+    "title": "Professional Career",
+    "excerpt": "A demo of Markdown and HTML includes\n",
+    "content": "Education\nComing Soon\n\nCareer Overview\nComing Soon\n\nJob History\nComing Soon\n\n",
+    "url": "/career/"
+  },
+  
+  {
+    "title": "Welcome to Nashville",
+    "excerpt": "\n",
+    "content": "Welcome to my website! I am glad you are here. This site is a collection of all the things that make me Matt Durlin. Here you will find information about my professional career as well as opportunities to share in my hobbies.\n\nI will be publishing music reviews from time to time as well as woodworking projects, outdoor adventures and more!\n\nTechnical Details About this Website\n\n  Hosted as a github-pages\n  Resolves to dns on godaddy\n  Uses markdown and html\n  jekyll for theming\n\n",
+    "url": "/"
+  },
+  
+  {
+    "title": "Rock Music Reviews",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/music/"
+  },
+  
+  {
+    "title": "Outdoor Adventures",
+    "excerpt": "Coming Soon\n",
+    "content": "Coming Soon\n",
+    "url": "/outdoors/"
+  },
+  
+  {
+    "title": "Woodworking Projects",
+    "excerpt": "\n",
+    "content": "Coming soon\n",
+    "url": "/woodworking/"
+  }
+  
+]
+
