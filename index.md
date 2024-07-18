@@ -3,12 +3,7 @@ title: Welcome to Nashville
 feature_image: "https://images.pexels.com/photos/13899090/pexels-photo-13899090.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 ---
 
-Welcome to my website! I am glad you are here. This site is a collection of all the things that make me Matt Durlin. Here you will find information about my professional career as well as opportunities to share in my hobbies.
+So glad you are here, fellow rock and roll fans! Here you fill find [candid rock reviews](/reviews/) from all corners of the genre, occasional [artist interviews](/interviews/) and I'll share [upcoming Nashville](/events/) events for bands coming to town, big or small.
 
-I will be publishing music reviews from time to time as well as woodworking projects, outdoor adventures and more!
-
-**Technical Details About this Website**
-* Hosted as a github-pages
-* Resolves to dns on godaddy
-* Uses markdown and html
-* jekyll for theming
+You can learn a little bit [about](/about/) my music reviewing background and why I am launching this site.
+If you want to jump right in to the music, just head over to the reviews page.

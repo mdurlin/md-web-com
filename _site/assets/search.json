@@ -9,38 +9,45 @@
   
   
   {
-    "title": "Professional Career",
-    "excerpt": "A demo of Markdown and HTML includes\n",
-    "content": "\n\nEducation\n\n\n\nBloomsburg University of Pennsylvania\n\nBachelors of Science Degree\n\nComputer and Information Systems\n\nGraduated May 2003\n\n\n\nCareer Overview\nSince graduating from Bloomsburg University of Pennsylvania in May 2003, I have been working as an IT professional with a focus on software engineering.\n\nEarly in my career, I served as a jack-of-all trades in a non-profit organization. I was responsible for the networking and maintenance of the computers in the office as well as maintaining and content on their website.\n\nAs my career has progressed, I have gained a focus on software engineering. Since 2014, I have been focused on RESTful backend services in Java and NodeJS related to insurance data.\n\nIn 2022, I joined a project that is running multiple app services in Azure cloud. Since being promoted to my current role as Lead Software Engineer I have been focused on leading the engineering and maintenance of that application in addition to gaining infrastructure and security knowledge related to Azure cloud hosted applications.\n\n\n\nJob History\n\n\n  \n    \n      Company\n      Job Title\n      Dates Employed\n    \n  \n  \n    \n      Optum\n      Lead Software Engineer\n      July 2020 - Present\n    \n    \n      Optum (via Collabera)\n      Software Engineer\n      January 2019 - July 2020\n    \n    \n      Travelers\n      Software Developer\n      September 2010 - January 2019\n    \n    \n      Highmark\n      Application Developer\n      January 2009 - September 2010\n    \n    \n      JFC Staffing Associates\n      Webmaster\n      February 2007 - December 2008\n    \n  \n\n\nAdditional early jobs listed on LinkedIn\n",
-    "url": "/career/"
+    "title": "About",
+    "excerpt": "\n",
+    "content": "I want to share a little about myself and my background, professionally as well as in music, and some of the reasons I am starting my own website dedicated to rock and roll reviews.\n\nI am a software engineer professionally, for over 20 years after graduating from Bloomsburg University in small town Pennsylvania.\n\nWhen I was in high school, I did my senior project at Messiah College co-hosting a radio slot where I had the opportunity to talk about and play great Christian rock music.\nI discovered a lot of smaller bands while doing that and became passionate about music media.\n\nIn college, I continued to share music on college radio; and after graduating and getting married I returned to Messiah college for one final stint as a DJ, interviewing Kevin Max and Trevor McNevan while hosting “The Tuesday Drive.” I also began to write about music at that time for a small Christian music review website.\n\nWith Rock On Purpose I have interviewed artists like Skillet, The Letter Black, and more CHR underground bands.\n\nAfter some time away from music media, in 2017 I joined New Release Today as a Christian Rock news beat writer. In 2019 I joined Rock On Purpose as lead contributor.\nI have gone through some personal challenges with mental and emotional health in the last couple of years and have not been writing. I’ve also found a passion for not just Christian rock, but also European rock bands as well as mainstream nostalgia like Green Day, Creed, and other 90s favorites.\n\nSo I wanted to do some things with this new venture:\n\n  Build a website using some fun technology\n  Have more creative freedom to write about all kinds of rock music, including but not limited to Christian bands\n  Share video interviews to allow artists to tell their stories\n  Since I’m local to Nashville, sharing upcoming events on Rock Row as well as mainstream bands coming through - all in one place\n\n\nI’m so glad you’re here! Let’s rock!\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "Upcoming Events in Nashville",
+    "excerpt": "\n",
+    "content": "Coming soon\n",
+    "url": "/events/"
   },
   
   {
     "title": "Welcome to Nashville",
     "excerpt": "\n",
-    "content": "Welcome to my website! I am glad you are here. This site is a collection of all the things that make me Matt Durlin. Here you will find information about my professional career as well as opportunities to share in my hobbies.\n\nI will be publishing music reviews from time to time as well as woodworking projects, outdoor adventures and more!\n\nTechnical Details About this Website\n\n  Hosted as a github-pages\n  Resolves to dns on godaddy\n  Uses markdown and html\n  jekyll for theming\n\n",
+    "content": "So glad you are here, fellow rock and roll fans! Here you fill find candid rock reviews from all corners of the genre, occasional artist interviews and I’ll share upcoming Nashville events for bands coming to town, big or small.\n\nYou can learn a little bit about my music reviewing background and why I am launching this site.\nIf you want to jump right in to the music, just head over to the reviews page.\n",
     "url": "/"
+  },
+  
+  {
+    "title": "Artist Interviews",
+    "excerpt": "\n",
+    "content": "Coming Soon\n",
+    "url": "/interviews/"
   },
   
   {
     "title": "Rock Music Reviews",
     "excerpt": "Category index\n",
     "content": "\n",
-    "url": "/music/"
+    "url": "/reviews/"
   },
   
   {
-    "title": "Outdoor Adventures",
-    "excerpt": "Coming Soon\n",
-    "content": "Coming Soon\n",
-    "url": "/outdoors/"
-  },
-  
-  {
-    "title": "Woodworking Projects",
+    "title": "Technical Site Details",
     "excerpt": "\n",
-    "content": "Coming soon\n",
-    "url": "/woodworking/"
+    "content": "For all my fellow nerds. Here are some technical details about this site:\n\n  Content hosted on Github using github-pages, with custom URL\n  DNS managed on GoDaddy - A and CNAME records pointing to the Github pages IPs and URL\n  Themed using Jekyll as a variation on the Alembic theme\n  Markdown and HTML used for formatting\n\n\nFor more about me profressionally, visit me on LinkedIn.\n",
+    "url": "/technical/"
   }
   
 ]
