@@ -1,6 +1,6 @@
 ### Halflives: Inferno
 
-**The Long and Short of **_Inferno_****
+**The Long and Short of _Inferno_**
 
 This album has two threads to pull on - one musically and one thematically.
 Musically this album is alternative rock at its finest, blending elements of pop, punk, spoken word perfectly together in a nice package.
@@ -16,17 +16,14 @@ If you haven't heard of Halflives you are in for a treat. Led by Linda Battilani
 
 Their most recent release is a twist on Inferno called **Inferno (End of the World Edition)**. Halflives released their debut record, **Empty Rooms**, in 2017. In 2018 they headlined tours in Europe and the UK.
 
-Check out [Halflives]() on [Spotify](ttps://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID?si=kNHttl3PQw2ukigYgDGzGA), [YouTube](https://youtube.com/@wehavehalflives?si=FZfJA8E_yichr4Ma) or anywhere music can be streamed.
+Check out [Halflives]() on [Spotify](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID?si=kNHttl3PQw2ukigYgDGzGA), [YouTube](https://youtube.com/@wehavehalflives?si=FZfJA8E_yichr4Ma) or anywhere music can be streamed.
 
-**Review of **_Inferno_****
+**Review of _Inferno_**
 
 This album kicks ass. The first track on the 5-song EP, "everybody knows it," is an in your face punk rock feel with a cheeky message about the state of things that reminds me of a dumpster fire meme - 'nothing to see here.' "sorry mom x" is more of a pop/alt rock vibe, melodic guitars and smooth vocals backed by a steady rock beat. The tune is an unapologetic apology and admission of how messed up and imperfect one can be and not live up to the hype (I think that's what the kids are saying these days).
 
-<iframe width="560" height="315"
-src="https://youtu.be/0LFKTb1qpHo?si=Co44yHOo1m11ED4c" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Image](/assets/images/sorrymomx_halflives.jpeg)](https://youtu.be/0LFKTb1qpHo?si=Co44yHOo1m11ED4c) <br>
+_Click to check out the video for 'sorry mom x'_
 
 "Dynamite" has a Miley Cirus "Wrecking Ball"-esque style with a tune and concept video demonstrating the beauty and brokenness of human relationships. Appropriately with the theme of the album, "EVERYTHING SUCKS!" comes next. This is my favorite song on the album because I am a fan of spoken word (almost rap). It's fun to listen to, and basically blaming someone else for life's problems. 
 
