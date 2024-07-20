@@ -114,8 +114,8 @@ navigation_header:
   url: /
 - title: Reviews
   url: /reviews/
-- title: Interviews
-  url: /interviews/
+- title: Artist Spotlight
+  url: /spotlight/
 - title: Nashville Events
   url: /events/
 
