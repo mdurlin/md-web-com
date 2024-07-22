@@ -13,10 +13,12 @@
     {% if page.collectionpage %}
 
       {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
-      <title>{{ collectiondata.title }} - {{ site.title }}</title>
+      <title>Matt Durlin - Nashville Rock Music Reviews and Concerts</title>
       <meta property="og:title" content="{{ collectiondata.title }}">
       <meta name="description" content="{{ collectiondata.description }}">
       <meta property="og:description" content="{{ collectiondata.description }}">
+      <meta name="category" content="rock music reviews">
+      <link rel="icon" type="image/x-icon" href="favicon.ico">
     {% endif %}
     {% if site.fonts.preconnect_urls %}
       {% for url in site.fonts.preconnect_urls %}
