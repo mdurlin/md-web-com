@@ -26,7 +26,7 @@ On the latter, Armstrong demonstrates her screaming abilities out of the gate.
 
 _From Zero_ is an example of how a band can successfully introduce a new lead vocalist while creating music in their past style and make unique music as well.
 
-Listen to _From Zero_ on [Spotify](https://open.spotify.com/album/3Hnux3n5xhBOIrIxUsO2AF?si=I5fH_ZeNQXiTg7KeeCHbbA)
+Listen to _From Zero_ on [Spotify](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93)
 
 _Published on November 20, 2024_
 
