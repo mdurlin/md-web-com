@@ -10,7 +10,7 @@ _The bottom line:_ Catchy and captivating tunes will have you hooked on Halflive
 
 **Review of _Inferno_**
 
-This album kicks ass. The first track on the 5-song EP, "everybody knows it," is an in your face punk rock feel with a cheeky message about the state of things that reminds me of a dumpster fire meme - 'nothing to see here.' "sorry mom x" is more of a pop/alt rock vibe, melodic guitars and smooth vocals backed by a steady rock beat. The tune is an unapologetic apology and admission of how messed up and imperfect one can be and not live up to the hype (I think that's what the kids are saying these days).
+This album will rock your face off. The first track on the 5-song EP, "everybody knows it," is an in your face punk rock feel with a cheeky message about the state of things that reminds me of a dumpster fire meme - 'nothing to see here.' "sorry mom x" is more of a pop/alt rock vibe, melodic guitars and smooth vocals backed by a steady rock beat. The tune is an unapologetic apology and admission of how messed up and imperfect one can be and not live up to the hype (I think that's what the kids are saying these days).
 
 "Dynamite" has a Miley Cirus "Wrecking Ball"-esque style with a tune and concept video demonstrating the beauty and brokenness of human relationships. Appropriately with the theme of the album, "EVERYTHING SUCKS!" comes next. This is my favorite song on the album because I am a fan of spoken word (almost rap). It's fun to listen to, and basically blaming someone else for life's problems. 
 
