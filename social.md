@@ -2,6 +2,7 @@
 
 <div aligh="center">
   <img alt="Instagram" src="/assets/images/ig.png" style="width: 100px; height: 100px">
+  <br>
   Instagram
 </div>
 
