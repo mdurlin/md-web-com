@@ -1,5 +1,3 @@
-### Linkin Park: From Zero
-
 ![Image](https://lh4.googleusercontent.com/proxy/yWnemUmoqz2h2RmoiQeD9OWIY5SPXY6vDzTaBPjMENG7B5s7Uf-gjDcHUBY-W2ukinbc4DdKk9fM63pRB-f4k-VwUckqLMGI8nRTAir4Ya56TQG6VUEKy95Bk2yQZw)
 
 **The Long and Short of _From Zero_**
