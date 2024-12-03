@@ -1,8 +1,6 @@
 ### Follow Us
 
 <div aligh="center">
-  <img alt="Instagram" src="/assets/images/ig.png" style="width: 100px; height: 100px">
-  <br>
-  Instagram
+  <img alt="Instagram" src="/assets/images/ig.png" style="width: 50px; height: 50px">
 </div>
 
