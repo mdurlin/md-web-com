@@ -10,3 +10,7 @@ Check out my reviews and artist spotlights below.
 <br/>
 
 {% include_relative /reviewposts/halflivesReviewSpotlight.md %}
+
+<br/>
+
+{% include_relative /reviewposts/jenniferknappKansas25.md %}
