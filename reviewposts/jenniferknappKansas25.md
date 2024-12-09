@@ -27,7 +27,7 @@ Can I be made whole again?"
 Following the hit tune, Knapp slows it down a little with "Trinity" before picking it up again on "In The Name."
 
 Another favorite, "His Grace Is Sufficient" follows. This is a slower tempo than the original and intentional pauses between phrases in the verses.
-This song, for me, has a dual meaning in reflection of Jennifer Knapp's journey the last 15-20 years - according to her [https://jenniferknapp.com/sample-page/bio/](jenniferknapp.com bio), Knapp "became a trailblazer in advocacy, notably becoming the first major artist in the Christian music realm to openly discuss LGBTQ+ identity."
+This song, for me, has a dual meaning in reflection of Jennifer Knapp's journey the last 15-20 years - according to her [website bio](https://jenniferknapp.com/bio/), Knapp "became a trailblazer in advocacy, notably becoming the first major artist in the Christian music realm to openly discuss LGBTQ+ identity."
 
 As we all examine our faith and it grows and changes over time (deconstruction?), I've learned that there is room for grace in doubt and questioning. 
 
@@ -37,7 +37,7 @@ The album closes with reflective tunes in "Refine Me," "Hold Me Now," and "Visio
 
 In a year where I listened to a lot of heavy, dark-ish music and struggled with mental health, this album stands out as a nostalgic bright spot. 
 
-You can check out Kansas 25 and Jennifer Knapp's entire collection on [https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi](Spotify).
+You can check out Kansas 25 and Jennifer Knapp's entire collection on [Spotify](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi).
 
 _Published on December 9, 2024_
 
