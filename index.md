@@ -11,6 +11,8 @@ _Kansas 25_ is an acoustic reimagination 25 years later of Knapp's debut album, 
 
 [Read More](/reviewposts/jenniferknappKansas25.md)
 
+<hr/>
+
 ### Linkin Park: From Zero
 
 Linkin Park explodes back onto the scene with tunes that will have fans jumping and singing along during sold out live shows.
