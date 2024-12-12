@@ -1,5 +1,5 @@
 ---
-title: Follow Us
+title: Connect on Socials
 feature_image: "https://images.pexels.com/photos/105854/pexels-photo-105854.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 ---
 
