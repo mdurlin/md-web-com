@@ -30,6 +30,7 @@ Buckle up when you listen to this banger by Zahna.
 Listen to "Pile of Pills" on [Youtube](https://www.youtube.com/watch?v=hhNT-cqm-ZM)
 
 _Source: [Atom Splitter PR](http://www.atomsplitterpr.com/)_
+_Photo cred: Adrienne Beacco_
 
 _Published on December 12, 2024_
 
