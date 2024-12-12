@@ -13,23 +13,23 @@ I haven't heard a song quite like this from Zahna - it is chaotic and LOUD (turn
 "Pile of Pills" has an outraged feel to it, backed by furious and heavy guitar, steady and booming drums and featuring the "earth-shattering voice" that is Zahna.
 It's message begins in a desperate and hopeless place. Verse 2 leans into that:
 
-_I'm bitter and jaded with this sickness I admit it_
-_Consumed with the pursuit of money_
-_I can't clean myself from it_
-_I've been sick for a long time_
-_Both body and mind await the day I say goodbye_
-_I change my mind all the time_
+"I'm bitter and jaded with this sickness I admit it<br>
+consumed with the pursuit of money<br/>
+I can't clean myself from it<br/>
+I've been sick for a long time<br/>
+Both body and mind await the day I say goodbye<br/>
+I change my mind all the time"
 
 The ultimate resolution comes at the end of the song, facing fears and hopelessness and being reslient:
 
-_I slam the door on dath 'cause he's early again_
-_I drink a pile of pills and I **start over again**_
+"I slam the door on dath 'cause he's early again<br/>
+I drink a pile of pills and I **start over again**"
 
 Buckle up when you listen to this banger by Zahna.
 
 Listen to "Pile of Pills" on [Youtube](https://www.youtube.com/watch?v=hhNT-cqm-ZM)
 
-_Source: [Atom Splitter PR](http://www.atomsplitterpr.com/)_
+_Source: [Atom Splitter PR](http://www.atomsplitterpr.com/)_<br/>
 _Photo cred: Adrienne Beacco_
 
 _Published on December 12, 2024_
