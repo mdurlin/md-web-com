@@ -16,10 +16,10 @@ So when she announced that she'd be releasing a 25th anniversary of Kansas, I kn
 
 _Kansas 25_ is like a laid back acoustic set on the backstage of a music festival at midnight. It's an easy listen, and keeps you drawn in starting with "Whole Again," which is delivered with such passion particularly on the chorus.
 
-"If I give my life, if I lay it down
-Can you turn this life around, around?
-Can I be made clean by this offering
-Of my soul?
+"If I give my life, if I lay it down<br>
+Can you turn this life around, around?<br>
+Can I be made clean by this offering<br>
+Of my soul?<br>
 Can I be made whole again?"
 
 "Undo Me" is one of the songs that comes close to the original version with some different tone and fluctuation vocally. A must listen for returning fans, this one put her on the map 25 years ago.
