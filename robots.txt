@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://www.mattdurlin.com/sitemap/
+Sitemap: https://www.mattdurlin.com/sitemap.xml

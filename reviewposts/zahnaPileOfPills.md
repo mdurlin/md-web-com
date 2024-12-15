@@ -20,14 +20,14 @@ I've been sick for a long time<br/>
 Both body and mind await the day I say goodbye<br/>
 I change my mind all the time"
 
-The ultimate resolution comes at the end of the song, facing fears and hopelessness and being reslient:
+The ultimate resolution comes at the end of the song, facing fears and hopelessness and being resilient:
 
 "I slam the door on dath 'cause he's early again<br/>
 I drink a pile of pills and I **start over again**"
 
 Buckle up when you listen to this banger by Zahna.
 
-Listen to "Pile of Pills" on [Youtube](https://www.youtube.com/watch?v=hhNT-cqm-ZM)
+Listen to "Pile of Pills" on [Youtube](https://www.youtube.com/watch?v=hhNT-cqm-ZM) and check out Zahna on [Spotify](https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F) and at [www.zahnaofficial.com](www.zahnaofficial.com).
 
 _Source: [Atom Splitter PR](http://www.atomsplitterpr.com/)_<br/>
 _Photo cred: Adrienne Beacco_
