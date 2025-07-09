@@ -52,11 +52,11 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Matt Durlin - Nashville Rock Music Reviews # Needed for Siteleaf
+    title: Matt Durlin - Modern, Indie and Nostaligic Rock Reviews # Needed for Siteleaf
     output: true
-    description: "Christian rock, punk rock, Nashville rock concerts, band interviews" # The post list page content
+    description: "90s-current reviews of rock, punk rock, rock concerts, band interviews" # The post list page content
     feature_text: |
-      Welcome to Nashville's best rock music blog. Here you'll find reviews of the latest Christian rock, punk rock, and other rock music. We also cover Nashville rock concerts and interview bands.
+      Welcome to the most comprehensive rock music blog. Here you'll find reviews of the latest collection of rock, punk rock, and other rock music. 
     feature_image: "https://images.pexels.com/photos/13899090/pexels-photo-13899090.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 
 # 6. Jekyll collections settings
@@ -116,8 +116,8 @@ navigation_header:
   url: /reviews/
 - title: Artist Spotlight
   url: /spotlight/
-- title: Follow
-  url: /social/
+- title: About
+  url: /about/
 
 #social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
 #- link: Instagram

@@ -12,15 +12,15 @@ I discovered a lot of smaller bands while doing that and became passionate about
 
 In college, I continued to share music on college radio; and after graduating and getting married I returned to Messiah college for one final stint as a DJ, interviewing Kevin Max and Trevor McNevan while hosting "The Tuesday Drive." I also began to write about music at that time for a small Christian music review website.
 
-With Rock On Purpose I have interviewed artists like Skillet, The Letter Black, and more CHR underground bands. 
+With [Rock On Purpose](www.rockonpurpose.com) I have interviewed artists like Skillet, The Letter Black, and more CHR underground bands. 
 
-After some time away from music media, in 2017 I joined New Release Today as a Christian Rock news beat writer. In 2019 I joined Rock On Purpose as lead contributor.
-I have gone through some personal challenges with mental and emotional health in the last couple of years and have not been writing. I've also found a passion for not just Christian rock, but also European rock bands as well as mainstream nostalgia like Green Day, Creed, and other 90s favorites.
+After some time away from music media, in 2017 I joined [New Release Today](www.newreleasetoday.com) as a Christian Rock news beat writer. In 2019 I joined Rock On Purpose as lead contributor.
+
+And now, it is time to embark on my own journey. I want to expand musical horizons beyond the Christian market, which happen
 
 So I wanted to do some things with this new venture: 
 1. Build a website using some [fun technology](/technical/)
-2. Have more creative freedom to write about all kinds of rock music, including but not limited to Christian bands
-3. Share video interviews to allow artists to tell their stories
-4. Since I'm local to Nashville, sharing upcoming events on Rock Row as well as mainstream bands coming through - all in one place
+2. Have more creative freedom to write about all kinds of rock music, from the 90s all the way up to the current. 
+3. Discover new music. I love to discover indie, european, and new mainstream bands/artists. 
 
 I'm so glad you're here! Let's rock!
