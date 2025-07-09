@@ -1,5 +1,5 @@
 ---
-title: Music Reviews
+title: Music and Concert Reviews
 feature_image: "https://images.pexels.com/photos/105854/pexels-photo-105854.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 ---
 ![Image](/assets/images/zahna_pills.png)
@@ -32,4 +32,4 @@ Linkin Park explodes back onto the scene with tunes that will have fans jumping 
 
 Catchy and captivating tunes will have you hooked on Halflives while tension grips you until it lets you go.
 
-[Read More](/reviewposts/halflivesReviewSpotlight.md) | [Artist Spotlight](/spotlightposts/halflivesSpotlight.md)
+[Read More](/reviewposts/halflivesReviewSpotlight.md) | [Artist Spotlight](spotlight/#halflives)
